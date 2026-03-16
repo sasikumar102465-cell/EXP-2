@@ -54,7 +54,7 @@ Tabulation for Load Test:
 
 Model graph:
 Calculation: 
-[text](<../../exp 2.pdf>)
+[text](../../exp2.pdf.txt.pdf)
 Open circuit characteristics
 
   
