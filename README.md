@@ -50,8 +50,7 @@ Procedure for Load test:
 Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
-
-[text](<../../exp 2.pdf>)
+[text](<../../../Users/sasik/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/DE7F9AD1A00ECAE9DC297C445F112735E3227AD6/transfers/2026-11/Document 3.pdf>)
 
 Model graph:
 Calculation: 
