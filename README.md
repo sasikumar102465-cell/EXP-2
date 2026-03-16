@@ -50,11 +50,12 @@ Procedure for Load test:
 Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
+[exp2.pdf.txt.pdf](https://github.com/user-attachments/files/26025067/exp2.pdf.txt.pdf)
 
 
 Model graph:
 Calculation: 
-[text](../../exp2.pdf.txt.pdf)
+
 Open circuit characteristics
 
   
