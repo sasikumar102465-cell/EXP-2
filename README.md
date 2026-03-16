@@ -51,6 +51,8 @@ Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
 
+[text](<../../exp 2.pdf>)
+
 Model graph:
 Calculation: 
 
